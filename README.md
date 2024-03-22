@@ -14,3 +14,6 @@ Payment Options: Users are given the option to pay online or with cash, with spe
 Reset Functionality: The system allows users to reset the input fields, providing a clean slate for a new order.
 
 GUI Design: The GUI is designed with colorful components and clear labels, making it visually appealing and easy to understand.
+
+In conclusion, the Bill Management System is a Java-based application that streamlines the process of managing and calculating bills in a restaurant. It provides a straightforward interface for users to select items, input quantities, view the total bill, and choose a payment method. The system enhances user experience through its intuitive design and functionality, making it suitable for small-scale businesses or educational purposes. Users can efficiently manage their orders and payments through this graphical application.
+
